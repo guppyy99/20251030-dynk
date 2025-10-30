@@ -5,7 +5,7 @@ streamlit==1.40.0
 plotly==5.22.0
 plotly-calplot==0.1.20
 holidays==0.40
-PyNaver==0.1.5
+PyNaver==0.0.10
 google-generativeai==0.8.0
 python-decouple==3.8
 loguru==0.7.2
